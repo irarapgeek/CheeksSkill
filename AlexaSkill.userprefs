@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B4564628-FB2D-4D48-AE85-0E86DEFAF435}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AlexaController.cs">
+    <Files>
+      <File FileName="SpeechAssets/IntentSchema.json" Line="7" Column="36" />
+      <File FileName="SpeechAssets/SampleUtterances.txt" Line="10" Column="36" />
+      <File FileName="Controllers/AlexaController.cs" Line="14" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AlexaSkill PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

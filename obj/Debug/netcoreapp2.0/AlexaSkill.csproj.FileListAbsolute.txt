@@ -1,0 +1,11 @@
+/Users/irac/Documents/DEVNESS/AlexaSkill/obj/Debug/netcoreapp2.0/AlexaSkill.csprojResolveAssemblyReference.cache
+/Users/irac/Documents/DEVNESS/AlexaSkill/obj/Debug/netcoreapp2.0/AlexaSkill.csproj.CoreCompileInputs.cache
+/Users/irac/Documents/DEVNESS/AlexaSkill/obj/Debug/netcoreapp2.0/AlexaSkill.AssemblyInfoInputs.cache
+/Users/irac/Documents/DEVNESS/AlexaSkill/obj/Debug/netcoreapp2.0/AlexaSkill.AssemblyInfo.cs
+/Users/irac/Documents/DEVNESS/AlexaSkill/bin/Debug/netcoreapp2.0/AlexaSkill.deps.json
+/Users/irac/Documents/DEVNESS/AlexaSkill/bin/Debug/netcoreapp2.0/AlexaSkill.runtimeconfig.json
+/Users/irac/Documents/DEVNESS/AlexaSkill/bin/Debug/netcoreapp2.0/AlexaSkill.runtimeconfig.dev.json
+/Users/irac/Documents/DEVNESS/AlexaSkill/bin/Debug/netcoreapp2.0/AlexaSkill.dll
+/Users/irac/Documents/DEVNESS/AlexaSkill/bin/Debug/netcoreapp2.0/AlexaSkill.pdb
+/Users/irac/Documents/DEVNESS/AlexaSkill/obj/Debug/netcoreapp2.0/AlexaSkill.dll
+/Users/irac/Documents/DEVNESS/AlexaSkill/obj/Debug/netcoreapp2.0/AlexaSkill.pdb
